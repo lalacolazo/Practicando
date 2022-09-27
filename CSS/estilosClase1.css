@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: orange;
+    background-color: black;
+}
+
+#amarillo{
+    background-color: yellowgreen;
+}
+#verde{
+    background-color: blueviolet;
+}
+.center{
+    text-align: center;
+}
+.celeste{
+    background-color:aqua;
+    
+}
+.rojo{
+    background-color: rosybrown;
+}
